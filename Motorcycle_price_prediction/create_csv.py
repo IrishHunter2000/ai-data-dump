@@ -8,7 +8,7 @@ model_name = "R1"
 year_range = (2015, 2025) # Inclusive range for years
 mileage_range = (1000, 12000) # Inclusive range for mileage
 condition_score_range = (7, 10) # Inclusive range for condition score (e.g., 7=good, 10=excellent)
-output_csv_filename = "yamaha_r1_data_to_fill.csv"
+output_csv_filename = "yamaha_r1_pricing.csv"
 
 # --- Generate the data ---
 
